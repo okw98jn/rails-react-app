@@ -1,0 +1,16 @@
+.formContainer {
+  text-align: center;
+}
+
+.formContainer form {
+  border: 2px solid rgb(107, 104, 101);
+  width: 50%;
+  margin: 0 auto;
+  padding: 30px;
+  background-color: white;
+  border-radius: 10px;
+}
+
+.formField {
+  margin-bottom: 20px;
+}
